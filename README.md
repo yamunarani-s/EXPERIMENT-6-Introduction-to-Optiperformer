@@ -81,4 +81,3 @@ The optical communication system was successfully simulated using OptiPerformer.
 
 Received optical power decreased due to fiber attenuation. Q-factor gradually decreased, indicating signal quality degradation. Bit Error Rate (BER) increased with distance, showing higher error probability. The eye diagram became more closed at longer fiber lengths, confirming dispersion and noise effects. Hence, the simulation verified that optical signal performance deteriorates with increasing fiber length due to attenuation and dispersion losses.
 
-*(Summarize key findings from simulation and analysis)*
